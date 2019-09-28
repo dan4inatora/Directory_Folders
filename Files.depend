@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1527063422 source:c:\users\ivan\desktop\testtakoa\files\main.cpp
+	"File.h"
+	"TextFile.h"
+	"Directory.h"
+
+1527061190 source:c:\users\ivan\desktop\testtakoa\files\src\file.cpp
+	"File.h"
+
+1527061936 c:\users\ivan\desktop\testtakoa\files\include\file.h
+	<iostream>
+	<string>
+
+1527062506 source:c:\users\ivan\desktop\testtakoa\files\src\textfile.cpp
+	"TextFile.h"
+
+1527061874 c:\users\ivan\desktop\testtakoa\files\include\textfile.h
+	"File.h"
+
+1527063396 source:c:\users\ivan\desktop\testtakoa\files\src\directory.cpp
+	"Directory.h"
+
+1527062211 c:\users\ivan\desktop\testtakoa\files\include\directory.h
+	"File.h"
+	<vector>
+
